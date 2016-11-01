@@ -1,0 +1,64 @@
+body { 
+background-image: url("http://digitalsafari.org/swoods15/innovation/pix/background.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+@font-face {
+font-family: Heading;
+src: url(http://digitalsafari.org/swoods15/innovation/fonts/bebas.woff);
+}
+@font-face {
+font-family: Linx;
+src: url(http://digitalsafari.org/swoods15/innovation/fonts/geosans.woff);
+}
+@font-face {
+font-family:MS;
+src: url(http://digitalsafari.org/swoods15/innovation/fonts/exmouth.woff);
+}
+
+img.next {
+left: 90%;
+top: 85%;
+position: fixed;
+}
+img.next2 {
+right: 90%;
+top: 85%;
+position: fixed;
+}
+
+img.border {
+left:84%;
+height: 100%;
+top: 20%;
+position: absolute;
+}
+img.border2 {
+right: 84%;
+height: 100%;
+top: 20%;
+position: absolute;
+}
+p.heading {
+text-align: center;
+font-size: 72px;
+font-family: 'Heading';
+margin:0;
+}
+p.subheading {
+margin:0;
+text-align: left;
+margin-left: 250px;
+margin-right:200px;
+font-size: 48px;
+font-family: 'Heading';
+text-decoration:underline;
+}
+p.text {
+margin:0;
+margin-left: 250px;
+margin-right:200px;
+text-align: left;font-size: 20px;
+font-family: 'Linx';
+}
