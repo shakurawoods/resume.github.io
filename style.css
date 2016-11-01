@@ -34,12 +34,7 @@
   span.italic {
   font-style: italic;
   }
-  ul {
-  list-style-image: url('https://lh3.googleusercontent.com/g6ApEO5arXlMNF0O0y6Yt2EtYpVFKKwJ6OfGGaU37ko95eZ-JLQXsujnGLhlp9_auYdmdXsmt18xevtwl3wXltR99WRj8JYsQjQSRcu1Wc7Mlqmft2YM5BsEG_G1mlS90T0dksaUgVZn63ObB_ZrqvoxNFQ2-fYwnN8cHiowVBT7DDX3Wpy3ai6KbY-mBKV69EFd-ZKDZGcFHV6kjaeuTZNI68Z8P4oqOfZbDAk52fXma9DXvDyp_nm4zWakwDWPt4BZfigkrb7bAzxAYaD3UerRi7DRKjAXH2pT8xhTECeBf_Nb8aK4hdpOsw4muia88DX88jYkj83jFKfmJJZyglRivlYhtemWifbOfwV1aV6chP7kUNQ67g6usY8bJSmpxy9R_ucbUENIXxSEWJVV-sAPUfyth0KVOiyz-ITJ8E9q2dhYBrhFtJlA0LlquN2I96925K7Ees6fZgi3lfrVK5DEVBDQ5ut7tdOMJf-Dvp0smxpNM14nudXhq0os_auKraQIfbkDjineT93uC0IJfhS2objn5wwn8P-XsqExew3Viaj6QrLBmkvkpW9c-PZdNFrfvv-sp604bELhFN-I9rpByqfLOYg_2S7odmsodf6qAoFP=s11-no');
-  font-family: 'Muli', sans-serif;
-  font-size:12.5px;
-  margin-left:-15px;
-  }
+ 
   .hr {
   width:100%;
   height:6px;
