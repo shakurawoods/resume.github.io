@@ -6,7 +6,11 @@
   margin-left:20%;
   margin-right:20%;
   }
-  
+     ul {
+  font-family: 'Muli', sans-serif;
+  font-size:12.5px;
+  margin-left:-15px;
+  }
   .indent {
   margin-left:10%;
   margin-right:10%;
