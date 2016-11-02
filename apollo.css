@@ -1,20 +1,20 @@
 body { 
-background-image: url("http://digitalsafari.org/swoods15/innovation/pix/background.png");
+background-image: url("https://shakurawoods.github.io/background.png");
 background-repeat: no-repeat;
 background-size: cover;
 }
 
 @font-face {
 font-family: Heading;
-src: url(http://digitalsafari.org/swoods15/innovation/fonts/bebas.woff);
+src: url(https://shakurawoods.github.io/bebas.woff);
 }
 @font-face {
 font-family: Linx;
-src: url(http://digitalsafari.org/swoods15/innovation/fonts/geosans.woff);
+src: url(https://shakurawoods.github.io/geosans.woff);
 }
 @font-face {
 font-family:MS;
-src: url(http://digitalsafari.org/swoods15/innovation/fonts/exmouth.woff);
+src: url(https://shakurawoods.github.io/exmouth.woff);
 }
 
 img.next {
