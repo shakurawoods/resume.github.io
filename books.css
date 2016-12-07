@@ -1,0 +1,20 @@
+@import 'https://fonts.googleapis.com/css?family=Muli';
+h1 {
+  font-family: 'Muli', sans-serif;
+  font-size: 32px;
+}
+
+.books img a{
+  border-radius: 6px;
+  max-width: 15%;
+}
+
+.books {
+  color: black;
+  list-style: none;
+  font-size: 20px;
+}
+
+* {
+  background-color: 	#dcdcdc;
+}
