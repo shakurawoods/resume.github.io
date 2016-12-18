@@ -1,7 +1,37 @@
-@import url('https://fonts.googleapis.com/css?family=Pattaya');
+@font-face {
+  font-family: 'Title';
+       url('https://shakurawoods.github.io/fonts/hijrnotes.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://shakurawoods.github.io/fonts/hijrnotes.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
 h1{
-    font-family: 'Pattaya', sans-serif;
+font-family: 'Title', sans-serif;
 }
 body{
-background-color:#ffe0f0;
+background-color:#c7bab5;
+margin-left:5%;
+margin-top:2.5%;
+}
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+li{
+font-family: 'Julius Sans One', sans-serif;
+display: inline; 
+}
+a{
+text-decoration: none;
+}
+a:link{
+    
+}
+a:visited{
+    
+}
+a:hover{
+    
+}
+a:active{
+    
 }
