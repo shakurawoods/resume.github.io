@@ -1,10 +1,11 @@
 @font-face {
-  font-family: 'Title';
-       url('https://shakurawoods.github.io/fonts/hijrnotes.woff') format('woff'), /* Pretty Modern Browsers */
-       url('https://shakurawoods.github.io/fonts/hijrnotes.ttf')  format('truetype'), /* Safari, Android, iOS */
+font-family: 'Title';
+src: url('https://shakurawoods.github.io/fonts/hijrnotes.woff') format('woff'); /* Pretty Modern Browsers */
+src: url('https://shakurawoods.github.io/fonts/hijrnotes.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 h1{
 font-family: 'Title', sans-serif;
+font-size:60px;
 }
 body{
 background-color:#c7bab5;
